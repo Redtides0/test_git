@@ -26,7 +26,7 @@ class Settings:
         self.screen_height = 600
         self.bg_color = (230, 230, 230)
         self.fps = 60
-        # 你好，我是一个来测试 git diff的注释 
+        # 你好，我是一个来测试 git diff的注释   
         self.alien_width = 20
         self.alien_height = 20
         self.alien_color = (0, 0, 0)
