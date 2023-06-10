@@ -22,7 +22,7 @@ class Gamestats:
 class Settings:
     def __init__(self):
         # 你好，我是一个来测试上传到github上会不会乱码的注释，hhh
-        self.screen_width = 800
+        self.screen_width = 800  
         self.screen_height = 600
         self.bg_color = (230, 230, 230)
         self.fps = 60
