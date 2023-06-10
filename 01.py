@@ -1,3 +1,4 @@
+# -*- encoding:utf-8 -*- 
 import pygame
 import sys
 import random
@@ -20,7 +21,7 @@ class Gamestats:
 
 class Settings:
     def __init__(self):
-        # ????????
+        # 你好，我是一个来测试上传到github上会不会乱码的注释，hhh
         self.screen_width = 800
         self.screen_height = 600
         self.bg_color = (230, 230, 230)
@@ -40,7 +41,7 @@ class Scoreboard:
     """????÷????"""
 
     def __init__(self, ai_set, screen, stats):
-        """??????÷??漰??????"""
+        """??????÷??�???????"""
         self.screen = screen
         self.screen_rect = screen.get_rect()
         self.ai_set = ai_set
